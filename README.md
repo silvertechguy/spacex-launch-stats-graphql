@@ -1,6 +1,9 @@
 # SpaceX Launch Stats
 
 > React, GraphQL, Apollo app that uses the SpaceX API to display launches
+![screenshot](https://github.com/silvertechguy/spacex-launch-stats-graphql/blob/main/screenshot.png)
+![screenshot](https://github.com/silvertechguy/spacex-launch-stats-graphql/blob/main/screenshot2.png)
+
 
 ## Quick Start
 
@@ -23,3 +26,12 @@ cd client && npm run build
 
 # Graphiql - http://localhost:5000/graphql
 ```
+
+
+👨‍💻 My projects are available at https://silvertechguy.netlify.app
+
+📫 Reach me at my email silvertechguy@gmail.com
+
+twitter https://twitter.com/silvertechyguy
+
+LinkedIn https://linkedin.com/in/silvertechguy
